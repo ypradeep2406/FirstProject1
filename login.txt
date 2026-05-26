@@ -1,0 +1,6 @@
+login feature implementaton
+login module
+1. User enters username
+2. User enters password
+3. System validates credentials
+4. User gets autheticated
